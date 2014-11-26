@@ -1,0 +1,67 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B977Yq3D_OzJaW9UU0MxclNwa2s",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJWHl2aVFwSkFoVGM",
+      "contentType": "text/html",
+      "name": "right-sidebar.html",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJRV9EMVdCNl9aWEU",
+      "contentType": "text/html",
+      "name": "left-sidebar.html",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJYS10OG16UkwyMzg",
+      "contentType": "text/html",
+      "name": "index-alternate.html",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B977Yq3D_OzJVm84TVpHcHRuSFU",
+      "contentType": "text/css",
+      "name": "style-mobile.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJM2RBNmlmc2ZBUG8",
+      "contentType": "text/css",
+      "name": "style-desktop.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJMlladmpvcTE4LVk",
+      "contentType": "text/css",
+      "name": "font-awesome.min.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJRjVuYnVEWk9zSUk",
+      "contentType": "text/css",
+      "name": "skel.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJWjhLYlh0QkxtUlE",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    },
+    {
+      "fileId": "0B977Yq3D_OzJT2xsNk1oSHB4Tnc",
+      "contentType": "text/css",
+      "name": "style-1000px.css",
+      "path": "0B977Yq3D_OzJMTJSVDA1YVBjQlE/css"
+    }
+  ],
+  "javascriptFiles": []
+}
